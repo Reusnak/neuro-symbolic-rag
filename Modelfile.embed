@@ -1,0 +1,1 @@
+FROM ./models/ollama_files/nomic-embed-text-v1.5.f16.gguf

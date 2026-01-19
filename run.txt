@@ -1,0 +1,2 @@
+PYTHONPATH=. ./.venv/bin/python ingest.py
+PYTHONPATH=. ./.venv/bin/python -m streamlit run app.py

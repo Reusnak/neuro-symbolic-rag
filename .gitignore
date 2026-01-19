@@ -1,0 +1,23 @@
+# --- 环境与依赖 ---
+.venv/
+node_modules/
+__pycache__/
+*.py[cod]
+
+# --- 核心数据 (绝对不要上传) ---
+storage_data/
+models/
+.obsidian/
+data/
+
+# --- 序列化文件 ---
+*.pkl
+*.gpickle
+*.db
+*.sqlite3
+
+# --- 系统与编辑器 ---
+.DS_Store
+.vscode/
+.idea/
+.streamlit/
